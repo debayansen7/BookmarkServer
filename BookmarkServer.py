@@ -7,7 +7,7 @@
 # from urllib.parse import unquote, parse_qs
 #
 
-print('Hello World');
+print('Hello World - DEB heroku is running');
 
 # memory = {}
 #
